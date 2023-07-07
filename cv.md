@@ -1,5 +1,5 @@
 # darya eskina
-(https://disk.yandex.ru/i/qNpjcVN4u8qcjg)
+(https://github.com/adogonalog/rsschool-cv/blob/gh-pages/avatar.png?raw=true)
 
 
 ## about
@@ -11,12 +11,12 @@
 
 
 ## contacts
-- **place**     |  tbilisi, georgia
-- **mail**      |  eskinadarya@gmail.com
-- **github**    |  [adogonalog](https://github.com/adogonalog/)
-- **telegram**  |  [loonyandmoony](https://t.me/loonyandmoony)
-- **discord**   |  [Darya Eskina#1558](https://discordapp.com/users/1120424814289621073)
-- **behance**   |  [loonyandmoony](https://www.behance.net/loonyandmoony)
+**place**     |  tbilisi, georgia
+**mail**      |  eskinadarya@gmail.com
+**github**    |  [adogonalog](https://github.com/adogonalog/)
+**telegram**  |  [loonyandmoony](https://t.me/loonyandmoony)
+**discord**   |  [Darya Eskina#1558](https://discordapp.com/users/1120424814289621073)
+**behance**   |  [loonyandmoony](https://www.behance.net/loonyandmoony)
 
 
 ## skills 
@@ -59,28 +59,24 @@ html & css  |  [white list](https://github.com/adogonalog/s-chistogo-lista)
 
 
 ## education
-- **moscow aviation institute**    |  2011
-  control systems, informatics 
-  and electric power industry  
+- **moscow aviation institute** | control systems, informatics and electric power industry  | 2011
 
-- **stroganov state academy**      |  2014
-  monumental and decorative    
-  painting                     
+- **stroganov state academy**  |  monumental and decorative painting  |  2014
 
 
 ## certificates 
-- **rs school**         |  js/fe pre-school  |  in progress
-- **yandex.praktikum**  |  html & css        |  in progress
-- **yandex.praktikum**  |  ux copywriting    |  2023
-- **yandex.praktikum**  |  project manager   |  2023
-- **yandex.praktikum**  |  ux/ui design      |  2022
+**rs school**         |  js/fe pre-school  |  in progress
+**yandex.praktikum**  |  html & css        |  in progress
+**yandex.praktikum**  |  ux copywriting    |  2023
+**yandex.praktikum**  |  project manager   |  2023
+**yandex.praktikum**  |  ux/ui design      |  2022
 
 
 ## languages
-- **russian**   |  native
-- **english**   |  c1
-- **german**    |  b1
-- **norwegian** |  a2
+**russian**   |  native
+**english**   |  c1
+**german**    |  b1
+**norwegian** |  a2
 
 
 ## code
