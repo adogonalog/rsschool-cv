@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Inter;
+    font-weight: 400;
+    src: 
+    url(interregular.woff2) format('woff2'),
+    url(interregular.woff) format('woff'),
+    url(interregular.ttf) format('truetype');
+}
