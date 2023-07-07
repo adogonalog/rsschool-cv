@@ -1,5 +1,5 @@
 # darya eskina
-
+![avatar](https://github.com/adogonalog/rsschool-cv/blob/gh-pages/avatar.png?raw=true)
 
 
 ## about
@@ -53,9 +53,9 @@ html & css  |  [white list](https://github.com/adogonalog/s-chistogo-lista)
 - **mc kinsey & company**             |  04.2012 — 04.2013
   graphic specialist                  |  1 year 1 month
   
-- **moscow electromechanics**         |  03.2011 — 04.2012
-  **and automatics institute**        |  1 year 2 months
-  engineer                            
+- **moscow electromechanics and automatics institute**    |  03.2011 — 04.2012
+  engineer                                                |  1 year 2 months
+                              
 
 
 ## education
