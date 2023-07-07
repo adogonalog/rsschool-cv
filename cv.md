@@ -1,5 +1,5 @@
 # darya eskina
-![avatar](https://github.com/adogonalog/rsschool-cv/blob/gh-pages/avatar.png?raw=true)
+
 
 
 ## about
