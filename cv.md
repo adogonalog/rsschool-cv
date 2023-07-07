@@ -1,13 +1,13 @@
 # darya eskina
-![avatar](https://github.com/adogonalog/rsschool-cv/blob/gh-pages/avatar.png)
-*********
+![avatar](https://disk.yandex.ru/i/qNpjcVN4u8qcjg)
+
 
 ## about
-- [x] i worked as a designer in yandex schoolbook. i learned there a lot about team work and how important communication is. also i improved my hard skills in design. 
+- i worked as a designer in yandex schoolbook. i learned there a lot about team work and how important communication is. also i improved my hard skills in design. 
 
-- [x] recently i became interested in how developers work. i started learning html & css and ended up at rs school “course java script & frontend development stage #0”.
+- recently i became interested in how developers work. i started learning html & css and ended up at rs school “course java script & frontend development stage #0”.
 
-- [x] i like to learn new things, update my knowledge and regularly attend various new courses.
+- i like to learn new things, update my knowledge and regularly attend various new courses.
 
 
 ## contacts
@@ -77,12 +77,10 @@ painting
 
 
 ## languages
-|   |   |
-|---|---|
-**russian**   |  native
-**english**   |  c1
-**german**    |  b1
-**norwegian** |  a2
+- **russian**   |  native
+- **english**   |  c1
+- **german**    |  b1
+- **norwegian** |  a2
 
 
 ## code
