@@ -1,1 +1,2 @@
-# rsschool-cv2
+https://adogonalog.github.io/rsschool-cv/cv
+https://adogonalog.github.io/rsschool-cv/
