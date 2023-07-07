@@ -1,5 +1,5 @@
 # darya eskina
-(https://github.com/adogonalog/rsschool-cv/blob/gh-pages/avatar.png?raw=true)
+![avatar](https://github.com/adogonalog/rsschool-cv/blob/gh-pages/avatar.png?raw=true)
 
 
 ## about
@@ -55,7 +55,7 @@ html & css  |  [white list](https://github.com/adogonalog/s-chistogo-lista)
   
 - **moscow electromechanics**         |  03.2011 — 04.2012
   **and automatics institute**        |  1 year 2 months
-  engineer                            | 
+  engineer                            
 
 
 ## education
