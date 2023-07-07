@@ -38,7 +38,7 @@ html & css  |  [white list](https://github.com/adogonalog/s-chistogo-lista)
 ## career
 - **maternity leave** | 02.2022 — present
 
-- **yandex schoolbook** | content designer | 08.2021 — 02.2022 |7 months
+- **yandex schoolbook** | content designer | 08.2021 — 02.2022 | 7 months
   
 - **moscow transport** | graphic designer | 05.2017 — 12.2021 | 4 years 8 months
   
@@ -62,7 +62,7 @@ html & css  |  [white list](https://github.com/adogonalog/s-chistogo-lista)
 - **yandex.praktikum**  |  html & css        |  in progress
 - **yandex.praktikum**  |  ux copywriting    |  2023
 - **yandex.praktikum**  |  project manager   |  2023
-- **yandex.praktikum**  |  ux/ui design      |  2022
+- **yandex.praktikum**  |  ux/ui design      |  2021
 
 
 ## languages
